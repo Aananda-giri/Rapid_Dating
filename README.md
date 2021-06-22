@@ -1,1 +1,6 @@
-# Rapid_Dating
+# Rapid_Dating_site
+
+Initital Launch plan:
+  -
+  -
+  -
